@@ -16,8 +16,7 @@ This is a simple, research-backed web tool to estimate whether your current savi
 
 ## 🚀 Try the App
 
-🌐 [Click here to launch the app](https://yourusername-retirement-app.streamlit.app)  
-*(Replace this link after deployment)*
+🌐 [Click here to launch the app](https://retirement-adequacy.streamlit.app/)  
 
 ## 🧰 Tech Stack
 
